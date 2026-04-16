@@ -1,0 +1,44 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+# 岡本康宏 — 医療 × ソフトウェア開発
+
+眼科医として臨床に携わりながら、Python・C# で医療・業務効率化ツールを開発しています。  
+すべてのソフトウェアは GitHub で公開しています。
+
+[:fontawesome-brands-github: GitHub](https://github.com/YOUR_USERNAME){ .md-button .md-button--primary }
+
+---
+
+## 公開プロジェクト
+
+<div class="grid cards" markdown>
+
+-   **眼科データビューア**
+
+    ---
+
+    眼科検査データの閲覧・比較を効率化するビューアツール。
+
+    [:octicons-arrow-right-24: 詳細](projects/ophthalmic-viewer/index.md)
+
+-   **MkDocs ポートフォリオテンプレート**
+
+    ---
+
+    MkDocs + Material for MkDocs でポートフォリオサイトを構築するテンプレート。
+
+    [:octicons-arrow-right-24: 詳細](projects/mkdocs-template/index.md)
+
+-   **医療請求支援ツール**
+
+    ---
+
+    C# で開発した医療事務の請求業務を支援するデスクトップアプリケーション。
+
+    [:octicons-arrow-right-24: 詳細](projects/csharp-billing/index.md)
+
+</div>

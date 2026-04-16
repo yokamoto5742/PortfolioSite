@@ -1,0 +1,99 @@
+site_name: 岡本康宏 | Software Portfolio
+site_url: https://yokamoto5742.github.io/portfolio/
+site_author: 岡本康宏
+site_description: >
+  眼科医 / ソフトウェア開発者。Python・C# を使った医療・業務効率化ツールを公開しています。
+
+repo_name: yokamoto5742/portfolio
+repo_url: https://github.com/yokamoto5742/portfolio
+edit_uri: ""
+
+copyright: Copyright &copy; 2024–2026 岡本康宏
+
+# ─── テーマ ──────────────────────────────────────────
+theme:
+  name: material
+  language: ja
+  font:
+    text: Noto Sans JP
+    code: JetBrains Mono
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: ダークモードへ切り替え
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: ライトモードへ切り替え
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+
+# ─── プラグイン ──────────────────────────────────────
+plugins:
+  - search:
+      lang: [ja, en]
+
+# ─── Markdown 拡張 ───────────────────────────────────
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      title: 目次
+
+# ─── ページ構成 ──────────────────────────────────────
+nav:
+  - ホーム: index.md
+  - プロジェクト:
+    - projects/index.md
+    - 眼科データビューア: projects/ophthalmic-viewer/index.md
+    - MkDocs ポートフォリオ: projects/mkdocs-template/index.md
+    - 医療請求支援ツール: projects/csharp-billing/index.md
+  - About / 依頼: about.md
+
+extra_css: [assets/custom.css]
+extra_javascript: [assets/custom.js]
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yokamoto5742
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
