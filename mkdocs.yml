@@ -97,3 +97,5 @@ extra:
   analytics:
     provider: google
     property: G-XXXXXXXXXX
+    # MkDocs2.0の警告を抑制
+    no_mkdocs_2_warning: true
