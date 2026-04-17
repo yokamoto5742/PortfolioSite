@@ -331,7 +331,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "mkdocs", specifier = ">=1.6" },
+    { name = "mkdocs", specifier = ">=1.6,<2.0" },
     { name = "mkdocs-material", specifier = ">=9.5" },
 ]
 

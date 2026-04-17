@@ -4,10 +4,9 @@ hide:
   - toc
 ---
 
-# 岡本康宏 — 医療 × ソフトウェア開発
+# MediDocsCoder
 
-眼科医として臨床に携わりながら、Python・C# で医療・業務効率化ツールを開発しています。  
-すべてのソフトウェアは GitHub で公開しています。
+総合病院の眼科で勤務している医療秘書です。AIを使ったアプリケーション開発や業務効率化を行っています。
 
 [:fontawesome-brands-github: GitHub](https://github.com/YOUR_USERNAME){ .md-button .md-button--primary }
 
