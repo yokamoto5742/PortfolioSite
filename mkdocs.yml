@@ -1,6 +1,6 @@
-site_name: 岡本康宏 | Software Portfolio
+site_name: MediDocsCoder | Portfolio
 site_url: https://yokamoto5742.github.io/PortfolioSite/
-site_author: 岡本康宏
+site_author: MediDocsCoder
 site_description: >
   眼科医 / ソフトウェア開発者。Python・C# を使った医療・業務効率化ツールを公開しています。
 
@@ -8,7 +8,7 @@ repo_name: yokamoto5742/PortfolioSite
 repo_url: https://github.com/yokamoto5742/PortfolioSite
 edit_uri: ""
 
-copyright: Copyright &copy; 2024–2026 岡本康宏
+copyright: Copyright &copy; 2024–2026 MediDocsCoder
 
 # ─── テーマ ──────────────────────────────────────────
 theme:
