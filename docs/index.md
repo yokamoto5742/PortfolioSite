@@ -6,9 +6,8 @@ hide:
 
 # MediDocsCoder
 
-総合病院の眼科で勤務している医療秘書です。AIを使ったアプリケーション開発や業務効率化を行っています。
-
-[:fontawesome-brands-github: GitHub](https://github.com/yokamoto5742){ .md-button .md-button--primary }
+総合病院の眼科で勤務している医療秘書です。
+AIを使ったアプリケーション開発や業務効率化を行っています。
 
 ---
 
