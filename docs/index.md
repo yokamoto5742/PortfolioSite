@@ -11,32 +11,24 @@ AIを使ったアプリケーション開発や業務効率化を行っていま
 
 ---
 
-## 公開プロジェクト
+## プロジェクト一覧
 
 <div class="grid cards" markdown>
 
--   **眼科データビューア**
+-   **VoicePhrase**
 
     ---
 
-    眼科検査データの閲覧・比較を効率化するビューアツール。
+    専門用語を登録できるWindows 用ショートカット型音声入力ツール。
 
-    [:octicons-arrow-right-24: 詳細](projects/ophthalmic-viewer/index.md)
+    [:octicons-arrow-right-24: 詳細](projects/VoicePhrase/index.md)
 
--   **MkDocs ポートフォリオテンプレート**
-
-    ---
-
-    MkDocs + Material for MkDocs でポートフォリオサイトを構築するテンプレート。
-
-    [:octicons-arrow-right-24: 詳細](projects/mkdocs-template/index.md)
-
--   **医療請求支援ツール**
+-   **アプリ名**
 
     ---
 
-    C# で開発した医療事務の請求業務を支援するデスクトップアプリケーション。
+    アプリの説明文
 
-    [:octicons-arrow-right-24: 詳細](projects/csharp-billing/index.md)
+    [:octicons-arrow-right-24: 詳細](projects/appname/index.md)
 
 </div>
