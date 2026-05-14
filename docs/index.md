@@ -23,12 +23,12 @@ AIを使ったアプリケーション開発や業務効率化を行っていま
 
     [:octicons-arrow-right-24: 詳細](projects/VoicePhrase/index.md)
 
--   **アプリ名**
+-   **生活習慣病療養計画書アプリ**
 
     ---
 
-    アプリの説明文
+    外来診療を止めない生活習慣病療養計画書の作成管理ツール。
 
-    [:octicons-arrow-right-24: 詳細](projects/appname/index.md)
+    [:octicons-arrow-right-24: 詳細](projects/LDTPmodule/index.md)
 
 </div>
