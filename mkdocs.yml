@@ -85,6 +85,7 @@ nav:
     - 眼科データビューア: projects/ophthalmic-viewer/index.md
     - MkDocs ポートフォリオ: projects/mkdocs-template/index.md
     - 医療請求支援ツール: projects/csharp-billing/index.md
+    - 生活習慣病療養計画書作成ツール: projects/LDTPmodule/index.md
   - About / 依頼: about.md
 
 extra_css: [assets/custom.css]
