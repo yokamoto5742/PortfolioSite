@@ -31,4 +31,12 @@ AIを使ったアプリケーション開発や業務効率化を行っていま
 
     [:octicons-arrow-right-24: 詳細](projects/LDTPmodule/index.md)
 
+-   **VisionOCR**
+
+    ---
+
+    画面・PDFの任意領域からテキストを高精度に抽出するOCRツール。
+
+    [:octicons-arrow-right-24: 詳細](projects/VisionOCR/index.md)
+
 </div>
