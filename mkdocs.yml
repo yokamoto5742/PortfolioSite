@@ -85,6 +85,7 @@ nav:
     - 生活習慣病療養計画書作成ツール: projects/LDTPmodule/index.md
     - デスクトップOCR ツール: projects/VisionOCR/index.md
     - 音声入力ツール: projects/VoicePhrase/index.md
+    - マニュアル全文検索ツール: projects/ManualSearch/index.md
   - About / 依頼: about.md
 
 extra_css: [assets/custom.css]

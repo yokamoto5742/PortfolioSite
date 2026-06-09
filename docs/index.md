@@ -39,4 +39,12 @@ AIを使ったアプリケーション開発や業務効率化を行っていま
 
     [:octicons-arrow-right-24: 詳細](projects/VoicePhrase/index.md)
 
+-   **ManualSearch**
+
+    ---
+
+    PDF・テキスト・Markdown ファイルをフォルダ横断で全文検索するツール。
+
+    [:octicons-arrow-right-24: 詳細](projects/ManualSearch/index.md)
+
 </div>
